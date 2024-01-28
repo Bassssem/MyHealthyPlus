@@ -16,8 +16,8 @@ The Hospital Management System is a PHP-based web application designed to facili
 To set up the Hospital Management System locally, follow these steps:
 1. Clone the repository to your local machine.
 2. Configure your server environment (e.g., Apache, MySQL, PHP).
-3. Import the database schema provided in the `database.sql` file.
-4. Update the database connection settings in `config.php` with your local database credentials.
+3. Import the database schema provided in the `Database.sql` file.
+4. Update the database connection settings in `init.php` with your local database credentials.
 5. Start your server environment.
 6. Visit the website in your browser.
 
