@@ -66,7 +66,7 @@ CREATE TABLE `client` (
 --
 
 INSERT INTO `client` (`id`, `nom`, `email`, `password`, `numero`, `cin`, `date`, `genre`, `image`, `solde`) VALUES
-(8, 'yahya mt', 'yahya@gmail.com', '12345678', 96325874, 11111111, '2023-11-23', 'homme', 'IMG-656057edefb6c5.69058321.jpg', 944.42);
+(8, 'yahya mt', 'yahya@gmail.com', '112345678', 96325874, 11111111, '2023-11-23', 'homme', 'IMG-656057edefb6c5.69058321.jpg', 944.42);
 
 -- --------------------------------------------------------
 
