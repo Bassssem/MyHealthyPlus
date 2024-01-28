@@ -35,7 +35,7 @@ Once the system is set up, users can perform the following actions:
   - Schedule appointments with doctors.
   - Make online payments.
 -  **Doctors**:
--  - Schedule appointments with Clients.
+   - Schedule appointments with Clients.
 
 ## Examples
 
